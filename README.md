@@ -1,14 +1,16 @@
 # task-manager
+
 Repository for web2 story project
 
 # GitHub Pages
 
 # Checkist
+
 Caixas de Diálogo
 
 - [ ] prompt
-- [X] alert
-- [X] confirm
+- [x] alert
+- [x] confirm
 
 Temporizadores
 
@@ -17,37 +19,37 @@ Temporizadores
 
 Funções
 
-- [X] Função anônima com argumento
-- [X] Função anônima sem argumento
+- [x] Função anônima com argumento
+- [x] Função anônima sem argumento
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
-- [X] Função com nome
+- [x] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
-- [X] Função Flecha - Arrow Function
+- [x] Função Flecha - Arrow Function
 
 Eventos
 
-- [X] Evento de carregamento do documento - onload
+- [x] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
 - [ ] Imprimir alguma propriedade do objeto event recebido como parâmetro
-- [ ] Propagação de eventos no modelo bolha (usar target e currentTarget, ou seja, disparar o evento em um elemento filho e capturar em um elemento pai) 
+- [ ] Propagação de eventos no modelo bolha (usar target e currentTarget, ou seja, disparar o evento em um elemento filho e capturar em um elemento pai)
 
 Acesso aos elementos DOM do HTML
 
-- [X] Via referência DOM pelo id do elemento HTML
+- [ ] Via referência DOM pelo id do elemento HTML
 - [ ] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
-- [X] Via seletores CSS usados na função querySelector() ou querySelectorAll()
+- [x] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 Tratadores de Evento
 
 - [ ] Especificar o tratador de evento inline
 - [ ] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
-- [ ] Especificar o tratador de evento no carregamento da página HTML com a função addEventListener - no onload
+- [x] Especificar o tratador de evento no carregamento da página HTML com a função addEventListener - no onload
 - [ ] Usar o operador this em funções tratadoras de eventos.
 
 Objetos Nativos
@@ -55,11 +57,11 @@ Objetos Nativos
 - [ ] Usar pelo menos 3 métodos de manipulação de array
 - [ ] Usar laço de repetição (for..in ou for..of ou forEach)
 - [ ] Usar pelo menos 3 métodos para manipulação de string
-- [X] String Template
+- [x] String Template
 
 Objetos
 
-- [X] Criar objeto usando função construtora ou notação literal
+- [x] Criar objeto usando função construtora ou notação literal
 - [ ] Criar objetos a partir da definição de classes do ES6
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
 
@@ -70,15 +72,15 @@ Qualidade do código
 - [ ] Usar strict mode
 - [ ] Usar Module Pattern
 - [ ] Usar pasta assets e subpastas resources e libraries para organizar o código
-- [X] Usar let ou const ao invés de var
-- [X] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
+- [x] Usar let ou const ao invés de var
+- [x] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
 
 Formulário
 
-- [X] Validação de formulário com onsubmit usando os métodos tradicionais
+- [x] Validação de formulário com onsubmit usando os métodos tradicionais
 - [ ] Validação de formulário com HTML5 API
-  - [X] Customizar as mensagens nos balões de mensagem
-  - [X] Usar os atributos de validação dos inputs
+  - [x] Customizar as mensagens nos balões de mensagem
+  - [x] Usar os atributos de validação dos inputs
   - [ ] Usar expressões regulares
 - [ ] Ler e escrever em elementos input com a propriedade value
 - [ ] Alterar o conteúdo de elementos div ou p com a propriedade innerHTML ou textContent
@@ -98,9 +100,10 @@ jQuery
 
 Web Storage
 
-- [X] LocalStorage ou SessionStorage
-- [X] Leitura e escrita de dados simples
-- [X] Leitura e escrita de JSON
+- [x] LocalStorage ou SessionStorage
+- [x] Leitura e escrita de dados simples
+- [x] Leitura e escrita de JSON
 
 Ajax com Backend
+
 - [ ] Implementação funcional (basta fazer funcionar uma requisição) do backend em ExpressJS na plataforma Node e requisições AJAX.

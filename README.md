@@ -7,8 +7,8 @@ Repository for web2 story project
 Caixas de Diálogo
 
 - [ ] prompt
-- [ ] alert
-- [ ] confirm
+- [X] alert
+- [X] confirm
 
 Temporizadores
 
@@ -17,18 +17,18 @@ Temporizadores
 
 Funções
 
-- [ ] Função anônima com argumento
-- [ ] Função anônima sem argumento
+- [X] Função anônima com argumento
+- [X] Função anônima sem argumento
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
-- [ ] Função com nome
+- [X] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
-- [ ] Função Flecha - Arrow Function
+- [X] Função Flecha - Arrow Function
 
 Eventos
 
-- [ ] Evento de carregamento do documento - onload
+- [X] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
@@ -37,11 +37,11 @@ Eventos
 
 Acesso aos elementos DOM do HTML
 
-- [ ] Via referência DOM pelo id do elemento HTML
+- [X] Via referência DOM pelo id do elemento HTML
 - [ ] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
-- [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
+- [X] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 Tratadores de Evento
 
@@ -55,11 +55,11 @@ Objetos Nativos
 - [ ] Usar pelo menos 3 métodos de manipulação de array
 - [ ] Usar laço de repetição (for..in ou for..of ou forEach)
 - [ ] Usar pelo menos 3 métodos para manipulação de string
-- [ ] String Template
+- [X] String Template
 
 Objetos
 
-- [ ] Criar objeto usando função construtora ou notação literal
+- [X] Criar objeto usando função construtora ou notação literal
 - [ ] Criar objetos a partir da definição de classes do ES6
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
 
@@ -70,15 +70,15 @@ Qualidade do código
 - [ ] Usar strict mode
 - [ ] Usar Module Pattern
 - [ ] Usar pasta assets e subpastas resources e libraries para organizar o código
-- [ ] Usar let ou const ao invés de var
-- [ ] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
+- [X] Usar let ou const ao invés de var
+- [X] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
 
 Formulário
 
-- [ ] Validação de formulário com onsubmit usando os métodos tradicionais
+- [X] Validação de formulário com onsubmit usando os métodos tradicionais
 - [ ] Validação de formulário com HTML5 API
-  - [ ] Customizar as mensagens nos balões de mensagem
-  - [ ] Usar os atributos de validação dos inputs
+  - [X] Customizar as mensagens nos balões de mensagem
+  - [X] Usar os atributos de validação dos inputs
   - [ ] Usar expressões regulares
 - [ ] Ler e escrever em elementos input com a propriedade value
 - [ ] Alterar o conteúdo de elementos div ou p com a propriedade innerHTML ou textContent
@@ -98,9 +98,9 @@ jQuery
 
 Web Storage
 
-- [ ] LocalStorage ou SessionStorage
-- [ ] Leitura e escrita de dados simples
-- [ ] Leitura e escrita de JSON
+- [X] LocalStorage ou SessionStorage
+- [X] Leitura e escrita de dados simples
+- [X] Leitura e escrita de JSON
 
 Ajax com Backend
 - [ ] Implementação funcional (basta fazer funcionar uma requisição) do backend em ExpressJS na plataforma Node e requisições AJAX.
